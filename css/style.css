@@ -1,0 +1,66 @@
+index.css
+
+
+  			p
+            {
+              font-size:10px; 
+              
+            }
+            
+          
+            .Title
+            {
+
+              background: yellow;
+              font-size: 20px;
+            }
+
+            h2
+            {
+               background: green;
+               color:yellow;
+
+            }
+
+            h3
+            {
+            font-size: 25px;
+
+            }
+            h4
+            {
+
+              color:green;
+              font-size: 20px;
+
+            }
+
+            h5
+            {
+
+                color:green;
+                font-size: 16px;
+
+            }
+
+            h6{
+                color:brown;
+                font-size: 14px ;
+
+            }
+
+            img
+            {
+                width: 200px;
+                height: 100px;
+
+            }
+
+            .col-xs-3
+            {
+                border-width: 1px;
+                border-height:150px;
+                border-color:blue ;
+
+            }
+
