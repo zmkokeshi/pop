@@ -64,3 +64,16 @@ index.css
 
             }
 
+			.left
+			{
+                border-left: 1px solid green;
+
+                
+            }
+
+            .bottom
+            {
+            	border-bottom: 1px solid green;
+
+
+            }
